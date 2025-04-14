@@ -1,0 +1,7 @@
+{
+    "domain": "dev-nofd3nl3.us.auth0.com",
+    "clientId": "NvtGSUYq2BFxX3L5kRnHFl6O6xALqt5y",
+    "redirect": "/codehooks-io-react-todo",
+    "apiOrigin": "https://todoappdb-mcb1.api.codehooks.io/dev",
+    "scope": "read:current_user create:current_user_metadata profile email"
+}
